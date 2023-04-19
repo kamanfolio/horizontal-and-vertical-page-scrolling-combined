@@ -5,8 +5,11 @@ Instructions:
 Scroll down the page and click on the CTA "See Characters".
 
 Notes:
+
 • In order to acheive the effects successfully and to prevent a bad user scrolling experience, sliding the entire Characters section to the left is necessary.
+
 • The horizontal scrolling functionality works when user scrolls up and down or left and right, thanks to the wheel event.
+
 • The horizontal scrolling functionality is disabled on mobile versions for better user experience and falls back to default scrolling behavior (up and down).
 
 * The original idea was inspired by Apple.com
