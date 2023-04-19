@@ -2,6 +2,7 @@
 This page demonstrates normal behavior of scrolling by default (up and down) and triggers to a horizontal page scrolling (left and right) once clicked on a button.
 
 Instructions:
+
 Scroll down the page and click on the CTA "See Characters".
 
 Notes:
@@ -12,4 +13,4 @@ Notes:
 
 • The horizontal scrolling functionality is disabled on mobile versions for better user experience and falls back to default scrolling behavior (up and down).
 
-* The original idea was inspired by Apple.com
+• The original idea was inspired by Apple.com
